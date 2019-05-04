@@ -1,0 +1,7 @@
+platform :ios, '11.0'
+
+target 'RNZoomDemo' do
+
+  pod 'ZoomMobileRTC', :podspec => 'ZoomMobileRTC.podspec'
+
+end
